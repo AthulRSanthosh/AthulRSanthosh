@@ -25,7 +25,7 @@ Before running the application, set up your API key:
 ```python
 import google.generativeai as genai
 
-genai.configure(api_key="your-api-key")
+genai.configure(api_key="api-key")
 ```
 
 Replace `"your-api-key"` with your actual API key.
