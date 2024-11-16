@@ -28,7 +28,7 @@ import google.generativeai as genai
 genai.configure(api_key="api-key")
 ```
 
-Replace `"your-api-key"` with your actual API key.
+Replace `"api-key"` with actual API key.
 
 ### Running the Chatbot
 
